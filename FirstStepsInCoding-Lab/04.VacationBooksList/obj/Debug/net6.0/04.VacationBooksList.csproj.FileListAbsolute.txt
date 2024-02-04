@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/bin/Debug/net6.0/04.VacationBooksList
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/bin/Debug/net6.0/04.VacationBooksList.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/bin/Debug/net6.0/04.VacationBooksList.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/bin/Debug/net6.0/04.VacationBooksList.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/bin/Debug/net6.0/04.VacationBooksList.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/refint/04.VacationBooksList.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/04.VacationBooksList.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/04.VacationBooksList/obj/Debug/net6.0/ref/04.VacationBooksList.dll

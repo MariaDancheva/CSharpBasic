@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/bin/Debug/net6.0/06.VowelsSum
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/bin/Debug/net6.0/06.VowelsSum.deps.json
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/bin/Debug/net6.0/06.VowelsSum.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/bin/Debug/net6.0/06.VowelsSum.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/bin/Debug/net6.0/06.VowelsSum.pdb
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/refint/06.VowelsSum.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.pdb
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/06.VowelsSum.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/06.VowelsSum/obj/Debug/net6.0/ref/06.VowelsSum.dll

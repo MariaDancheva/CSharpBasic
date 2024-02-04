@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/bin/Debug/net6.0/07.SchoolCamp
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/bin/Debug/net6.0/07.SchoolCamp.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/bin/Debug/net6.0/07.SchoolCamp.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/bin/Debug/net6.0/07.SchoolCamp.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/bin/Debug/net6.0/07.SchoolCamp.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/refint/07.SchoolCamp.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/07.SchoolCamp.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/07.SchoolCamp/obj/Debug/net6.0/ref/07.SchoolCamp.dll

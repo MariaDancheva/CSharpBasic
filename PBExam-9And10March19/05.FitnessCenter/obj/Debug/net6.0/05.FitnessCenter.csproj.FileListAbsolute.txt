@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/bin/Debug/net6.0/05.FitnessCenter
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/bin/Debug/net6.0/05.FitnessCenter.deps.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/bin/Debug/net6.0/05.FitnessCenter.runtimeconfig.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/bin/Debug/net6.0/05.FitnessCenter.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/bin/Debug/net6.0/05.FitnessCenter.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.AssemblyInfo.cs
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/refint/05.FitnessCenter.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/05.FitnessCenter.genruntimeconfig.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/05.FitnessCenter/obj/Debug/net6.0/ref/05.FitnessCenter.dll

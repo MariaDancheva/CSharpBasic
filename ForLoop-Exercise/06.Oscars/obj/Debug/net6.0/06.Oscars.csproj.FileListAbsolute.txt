@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/bin/Debug/net6.0/06.Oscars
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/bin/Debug/net6.0/06.Oscars.deps.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/bin/Debug/net6.0/06.Oscars.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/bin/Debug/net6.0/06.Oscars.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/bin/Debug/net6.0/06.Oscars.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/refint/06.Oscars.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/06.Oscars.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/06.Oscars/obj/Debug/net6.0/ref/06.Oscars.dll

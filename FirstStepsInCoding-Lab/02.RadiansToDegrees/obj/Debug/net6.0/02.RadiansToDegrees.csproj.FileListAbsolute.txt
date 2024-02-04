@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/bin/Debug/net6.0/02.RadiansToDegrees
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/bin/Debug/net6.0/02.RadiansToDegrees.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/bin/Debug/net6.0/02.RadiansToDegrees.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/bin/Debug/net6.0/02.RadiansToDegrees.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/bin/Debug/net6.0/02.RadiansToDegrees.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/refint/02.RadiansToDegrees.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/02.RadiansToDegrees.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/02.RadiansToDegrees/obj/Debug/net6.0/ref/02.RadiansToDegrees.dll

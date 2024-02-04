@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{D70158B7-E53D-4836-8991-E46CF2345D80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.FuelTankPart2/Program.cs">
+    <Files>
+      <File FileName="01.PipesInPool/Program.cs" Line="36" Column="1" />
+      <File FileName="02.SleepyTomCat/Program.cs" Line="39" Column="1" />
+      <File FileName="03.Harvest/Program.cs" Line="11" Column="31" />
+      <File FileName="04.TransportPrice/Program.cs" Line="13" Column="30" />
+      <File FileName="05.Pets/Program.cs" Line="15" Column="42" />
+      <File FileName="06.FlowerShop1/Program.cs" Line="42" Column="2" />
+      <File FileName="07.FuelTank/Program.cs" Line="39" Column="1" />
+      <File FileName="08.FuelTankPart2/Program.cs" Line="71" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConditionalStatementsMoreExercises " expanded="True" selected="True">
+            <Node name="01.PipesInPool" expanded="True" />
+            <Node name="02.SleepyTomCat" expanded="True" />
+            <Node name="03.Harvest" expanded="True" />
+            <Node name="04.TransportPrice" expanded="True" />
+            <Node name="05.Pets" expanded="True" />
+            <Node name="06.FlowerShop1" expanded="True" />
+            <Node name="07.FuelTank" expanded="True" />
+            <Node name="08.FuelTankPart2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.08.FuelTankPart2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.07.FuelTank FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.Harvest FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.06.FlowerShop1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.Pets FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01.PipesInPool PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.SleepyTomCat FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.TransportPrice FirstBuild="True" />
+</Properties>

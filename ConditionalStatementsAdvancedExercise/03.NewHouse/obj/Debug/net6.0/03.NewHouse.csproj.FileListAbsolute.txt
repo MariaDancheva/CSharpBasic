@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/bin/Debug/net6.0/03.NewHouse
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/bin/Debug/net6.0/03.NewHouse.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/bin/Debug/net6.0/03.NewHouse.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/bin/Debug/net6.0/03.NewHouse.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/bin/Debug/net6.0/03.NewHouse.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/refint/03.NewHouse.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/03.NewHouse.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/03.NewHouse/obj/Debug/net6.0/ref/03.NewHouse.dll

@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/bin/Debug/net6.0/01.OldBooks
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/bin/Debug/net6.0/01.OldBooks.deps.json
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/bin/Debug/net6.0/01.OldBooks.runtimeconfig.json
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/bin/Debug/net6.0/01.OldBooks.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/bin/Debug/net6.0/01.OldBooks.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.AssemblyInfo.cs
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/refint/01.OldBooks.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/01.OldBooks.genruntimeconfig.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/01.OldBooks/obj/Debug/net6.0/ref/01.OldBooks.dll

@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/bin/Debug/net6.0/03.Gymnastics
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/bin/Debug/net6.0/03.Gymnastics.deps.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/bin/Debug/net6.0/03.Gymnastics.runtimeconfig.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/bin/Debug/net6.0/03.Gymnastics.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/bin/Debug/net6.0/03.Gymnastics.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.AssemblyInfo.cs
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/refint/03.Gymnastics.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/03.Gymnastics.genruntimeconfig.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/03.Gymnastics/obj/Debug/net6.0/ref/03.Gymnastics.dll

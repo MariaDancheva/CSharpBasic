@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/bin/Debug/net6.0/04.Walking
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/bin/Debug/net6.0/04.Walking.deps.json
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/bin/Debug/net6.0/04.Walking.runtimeconfig.json
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/bin/Debug/net6.0/04.Walking.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/bin/Debug/net6.0/04.Walking.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.AssemblyInfo.cs
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/refint/04.Walking.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/04.Walking.genruntimeconfig.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/04.Walking/obj/Debug/net6.0/ref/04.Walking.dll

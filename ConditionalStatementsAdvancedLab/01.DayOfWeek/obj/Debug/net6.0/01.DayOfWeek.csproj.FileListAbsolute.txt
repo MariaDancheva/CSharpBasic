@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/bin/Debug/net6.0/01.DayOfWeek
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/bin/Debug/net6.0/01.DayOfWeek.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/bin/Debug/net6.0/01.DayOfWeek.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/bin/Debug/net6.0/01.DayOfWeek.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/bin/Debug/net6.0/01.DayOfWeek.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/refint/01.DayOfWeek.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/01.DayOfWeek.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/01.DayOfWeek/obj/Debug/net6.0/ref/01.DayOfWeek.dll

@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/bin/Debug/net6.0/03.Flowers
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/bin/Debug/net6.0/03.Flowers.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/bin/Debug/net6.0/03.Flowers.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/bin/Debug/net6.0/03.Flowers.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/bin/Debug/net6.0/03.Flowers.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/refint/03.Flowers.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/03.Flowers.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/03.Flowers/obj/Debug/net6.0/ref/03.Flowers.dll

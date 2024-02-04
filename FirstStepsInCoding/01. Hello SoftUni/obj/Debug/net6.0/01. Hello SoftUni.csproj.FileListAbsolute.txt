@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/refint/01. Hello SoftUni.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/ref/01. Hello SoftUni.dll

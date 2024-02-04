@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/bin/Debug/net6.0/12.TradeCommissions
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/bin/Debug/net6.0/12.TradeCommissions.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/bin/Debug/net6.0/12.TradeCommissions.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/bin/Debug/net6.0/12.TradeCommissions.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/bin/Debug/net6.0/12.TradeCommissions.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/refint/12.TradeCommissions.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/12.TradeCommissions.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedLab/12.TradeCommissions/obj/Debug/net6.0/ref/12.TradeCommissions.dll

@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/bin/Debug/net6.0/04.CleverLily
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/bin/Debug/net6.0/04.CleverLily.deps.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/bin/Debug/net6.0/04.CleverLily.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/bin/Debug/net6.0/04.CleverLily.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/bin/Debug/net6.0/04.CleverLily.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/refint/04.CleverLily.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/04.CleverLily.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/04.CleverLily/obj/Debug/net6.0/ref/04.CleverLily.dll

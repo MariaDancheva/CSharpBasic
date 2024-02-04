@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/bin/Debug/net6.0/10.ClockPart2
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/bin/Debug/net6.0/10.ClockPart2.deps.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/bin/Debug/net6.0/10.ClockPart2.runtimeconfig.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/bin/Debug/net6.0/10.ClockPart2.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/bin/Debug/net6.0/10.ClockPart2.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.AssemblyInfo.cs
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/refint/10.ClockPart2.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/10.ClockPart2.genruntimeconfig.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/10.ClockPart2/obj/Debug/net6.0/ref/10.ClockPart2.dll

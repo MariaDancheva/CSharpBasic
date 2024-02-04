@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/bin/Debug/net6.0/04.GameNumberWars
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/bin/Debug/net6.0/04.GameNumberWars.deps.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/bin/Debug/net6.0/04.GameNumberWars.runtimeconfig.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/bin/Debug/net6.0/04.GameNumberWars.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/bin/Debug/net6.0/04.GameNumberWars.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.AssemblyInfo.cs
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/refint/04.GameNumberWars.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/04.GameNumberWars.genruntimeconfig.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/04.GameNumberWars/obj/Debug/net6.0/ref/04.GameNumberWars.dll

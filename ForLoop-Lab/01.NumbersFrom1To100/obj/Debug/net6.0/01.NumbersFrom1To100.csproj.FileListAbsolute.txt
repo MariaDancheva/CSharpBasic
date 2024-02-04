@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/bin/Debug/net6.0/01.NumbersFrom1To100
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/bin/Debug/net6.0/01.NumbersFrom1To100.deps.json
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/bin/Debug/net6.0/01.NumbersFrom1To100.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/bin/Debug/net6.0/01.NumbersFrom1To100.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/bin/Debug/net6.0/01.NumbersFrom1To100.pdb
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/refint/01.NumbersFrom1To100.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.pdb
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/01.NumbersFrom1To100.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/01.NumbersFrom1To100/obj/Debug/net6.0/ref/01.NumbersFrom1To100.dll

@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{A909DA46-103D-46E9-AD71-78645D925BA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.VowelsSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.NumberSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/02.SummerOutfit/Program.cs" line="12" column="9" endLine="12" endColumn="18" offsetX="-1" offsetY="-1" expression="timeOfDay" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/03.NewHouse/Program.cs" line="11" column="4" endLine="11" endColumn="14" offsetX="-1" offsetY="-1" expression="flowerType" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="30" column="22" endLine="30" endColumn="33" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="10" column="4" endLine="10" endColumn="18" offsetX="-1" offsetY="-1" expression="apartmentPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="11" column="4" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="24" column="4" endLine="24" endColumn="10" offsetX="-1" offsetY="-1" expression="nights" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.10.OddEvenSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Numbers1ToNWithStep3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.07.SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.NumbersFrom1To100 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.EvenPowersOf2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.NumbersNTo1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.CharacterSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.OddEvenSum/Program.cs">
+    <Files>
+      <File FileName="01.NumbersFrom1To100/Program.cs" />
+      <File FileName="02.NumbersNTo1/Program.cs" />
+      <File FileName="03.Numbers1ToNWithStep3/Program.cs" />
+      <File FileName="04.EvenPowersOf2/Program.cs" />
+      <File FileName="05.CharacterSequence/Program.cs" />
+      <File FileName="06.VowelsSum/Program.cs" />
+      <File FileName="07.SumNumbers/Program.cs" />
+      <File FileName="08.NumberSequence/Program.cs" />
+      <File FileName="09.LeftAndRightSum/Program.cs" />
+      <File FileName="10.OddEvenSum/Program.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForLoop-Lab " expanded="True">
+            <Node name="01.NumbersFrom1To100" expanded="True" />
+            <Node name="02.NumbersNTo1" expanded="True" />
+            <Node name="03.Numbers1ToNWithStep3" expanded="True" />
+            <Node name="04.EvenPowersOf2" expanded="True" />
+            <Node name="05.CharacterSequence" expanded="True" />
+            <Node name="06.VowelsSum" expanded="True" />
+            <Node name="07.SumNumbers" expanded="True" />
+            <Node name="08.NumberSequence" expanded="True" />
+            <Node name="10.OddEvenSum" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.09.LeftAndRightSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

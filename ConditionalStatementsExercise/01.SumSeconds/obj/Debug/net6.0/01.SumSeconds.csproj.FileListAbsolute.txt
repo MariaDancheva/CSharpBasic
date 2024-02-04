@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/bin/Debug/net6.0/01.SumSeconds
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/bin/Debug/net6.0/01.SumSeconds.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/bin/Debug/net6.0/01.SumSeconds.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/bin/Debug/net6.0/01.SumSeconds.dll
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/bin/Debug/net6.0/01.SumSeconds.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.dll
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/refint/01.SumSeconds.dll
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/01.SumSeconds.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsExercise/01.SumSeconds/obj/Debug/net6.0/ref/01.SumSeconds.dll

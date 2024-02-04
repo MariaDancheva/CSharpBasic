@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/bin/Debug/net6.0/02.ExamPreparation
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/bin/Debug/net6.0/02.ExamPreparation.deps.json
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/bin/Debug/net6.0/02.ExamPreparation.runtimeconfig.json
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/bin/Debug/net6.0/02.ExamPreparation.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/bin/Debug/net6.0/02.ExamPreparation.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.AssemblyInfo.cs
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/refint/02.ExamPreparation.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/02.ExamPreparation.genruntimeconfig.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/02.ExamPreparation/obj/Debug/net6.0/ref/02.ExamPreparation.dll

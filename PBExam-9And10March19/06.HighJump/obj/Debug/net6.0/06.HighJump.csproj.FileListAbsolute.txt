@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/bin/Debug/net6.0/06.HighJump
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/bin/Debug/net6.0/06.HighJump.deps.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/bin/Debug/net6.0/06.HighJump.runtimeconfig.json
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/bin/Debug/net6.0/06.HighJump.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/bin/Debug/net6.0/06.HighJump.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.AssemblyInfo.cs
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/refint/06.HighJump.dll
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.pdb
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/06.HighJump.genruntimeconfig.cache
+/Users/mariadanceva/Projects/PBExam-9And10March19/06.HighJump/obj/Debug/net6.0/ref/06.HighJump.dll

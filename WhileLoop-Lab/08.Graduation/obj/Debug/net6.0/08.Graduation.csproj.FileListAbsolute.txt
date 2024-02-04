@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/bin/Debug/net6.0/08.Graduation
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/bin/Debug/net6.0/08.Graduation.deps.json
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/bin/Debug/net6.0/08.Graduation.runtimeconfig.json
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/bin/Debug/net6.0/08.Graduation.dll
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/bin/Debug/net6.0/08.Graduation.pdb
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.AssemblyInfo.cs
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.dll
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/refint/08.Graduation.dll
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.pdb
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/08.Graduation.genruntimeconfig.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/08.Graduation/obj/Debug/net6.0/ref/08.Graduation.dll

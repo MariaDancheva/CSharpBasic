@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/bin/Debug/net6.0/03.Logistics
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/bin/Debug/net6.0/03.Logistics.deps.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/bin/Debug/net6.0/03.Logistics.runtimeconfig.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/bin/Debug/net6.0/03.Logistics.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/bin/Debug/net6.0/03.Logistics.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.AssemblyInfo.cs
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/refint/03.Logistics.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/03.Logistics.genruntimeconfig.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/03.Logistics/obj/Debug/net6.0/ref/03.Logistics.dll

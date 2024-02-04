@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B5DE2788-98F8-4DEA-B45C-83B7D9898CB7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.FishTank/Program.cs">
+    <Files>
+      <File FileName="FirstStepsInCoding-Lab/Program.cs" Line="1" Column="1" />
+      <File FileName="02.RadiansToDegrees/Program.cs" Line="3" Column="27" />
+      <File FileName="03.DepositCalculator1/Program.cs" Line="8" Column="24" />
+      <File FileName="04.VacationBooksList/Program.cs" Line="8" Column="1" />
+      <File FileName="05.SuppliesForSchool/Program.cs" Line="15" Column="1" />
+      <File FileName="06.Repainting/Program.cs" Line="31" Column="1" />
+      <File FileName="07.FoodDelivery1 ​/Program.cs" Line="13" Column="27" />
+      <File FileName="08.BasketballEquipment/Program.cs" Line="8" Column="4" />
+      <File FileName="09.FishTank/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstStepsInCoding-Lab" expanded="True">
+            <Node name="01.USDtoBGN" expanded="True" />
+            <Node name="02.RadiansToDegrees" expanded="True" />
+            <Node name="03.DepositCalculator1" expanded="True" />
+            <Node name="04.VacationBooksList" expanded="True" />
+            <Node name="05.SuppliesForSchool" expanded="True" />
+            <Node name="06.Repainting" expanded="True" />
+            <Node name="07.FoodDelivery1 ​" expanded="True" />
+            <Node name="08.BasketballEquipment" expanded="True" />
+            <Node name="09.FishTank" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.USDtoBGN PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

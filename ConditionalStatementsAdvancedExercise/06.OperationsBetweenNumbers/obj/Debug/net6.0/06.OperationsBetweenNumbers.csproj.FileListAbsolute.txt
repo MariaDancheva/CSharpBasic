@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/bin/Debug/net6.0/06.OperationsBetweenNumbers
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/bin/Debug/net6.0/06.OperationsBetweenNumbers.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/bin/Debug/net6.0/06.OperationsBetweenNumbers.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/bin/Debug/net6.0/06.OperationsBetweenNumbers.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/bin/Debug/net6.0/06.OperationsBetweenNumbers.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/refint/06.OperationsBetweenNumbers.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/06.OperationsBetweenNumbers.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedExercise/06.OperationsBetweenNumbers/obj/Debug/net6.0/ref/06.OperationsBetweenNumbers.dll

@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/bin/Debug/net6.0/07.FootballLeague
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/bin/Debug/net6.0/07.FootballLeague.deps.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/bin/Debug/net6.0/07.FootballLeague.runtimeconfig.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/bin/Debug/net6.0/07.FootballLeague.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/bin/Debug/net6.0/07.FootballLeague.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.AssemblyInfo.cs
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/refint/07.FootballLeague.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/07.FootballLeague.genruntimeconfig.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/07.FootballLeague/obj/Debug/net6.0/ref/07.FootballLeague.dll

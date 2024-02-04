@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/bin/Debug/net6.0/03.Numbers1ToNWithStep3
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/bin/Debug/net6.0/03.Numbers1ToNWithStep3.deps.json
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/bin/Debug/net6.0/03.Numbers1ToNWithStep3.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/bin/Debug/net6.0/03.Numbers1ToNWithStep3.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/bin/Debug/net6.0/03.Numbers1ToNWithStep3.pdb
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/refint/03.Numbers1ToNWithStep3.dll
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.pdb
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/03.Numbers1ToNWithStep3.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Lab/03.Numbers1ToNWithStep3/obj/Debug/net6.0/ref/03.Numbers1ToNWithStep3.dll

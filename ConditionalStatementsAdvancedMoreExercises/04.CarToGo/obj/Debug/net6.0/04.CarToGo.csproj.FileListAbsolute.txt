@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/bin/Debug/net6.0/04.CarToGo
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/bin/Debug/net6.0/04.CarToGo.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/bin/Debug/net6.0/04.CarToGo.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/bin/Debug/net6.0/04.CarToGo.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/bin/Debug/net6.0/04.CarToGo.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/refint/04.CarToGo.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/04.CarToGo.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/04.CarToGo/obj/Debug/net6.0/ref/04.CarToGo.dll

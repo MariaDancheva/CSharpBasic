@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/bin/Debug/net6.0/03.StreamOfLetters
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/bin/Debug/net6.0/03.StreamOfLetters.deps.json
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/bin/Debug/net6.0/03.StreamOfLetters.runtimeconfig.json
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/bin/Debug/net6.0/03.StreamOfLetters.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/bin/Debug/net6.0/03.StreamOfLetters.pdb
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.AssemblyInfo.cs
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/refint/03.StreamOfLetters.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.pdb
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/03.StreamOfLetters.genruntimeconfig.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/03.StreamOfLetters/obj/Debug/net6.0/ref/03.StreamOfLetters.dll

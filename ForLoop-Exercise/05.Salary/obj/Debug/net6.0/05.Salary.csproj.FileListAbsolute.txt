@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/bin/Debug/net6.0/05.Salary
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/bin/Debug/net6.0/05.Salary.deps.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/bin/Debug/net6.0/05.Salary.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/bin/Debug/net6.0/05.Salary.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/bin/Debug/net6.0/05.Salary.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/refint/05.Salary.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/05.Salary.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/05.Salary/obj/Debug/net6.0/ref/05.Salary.dll

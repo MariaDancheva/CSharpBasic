@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/bin/Debug/net6.0/05.AverageNumber
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/bin/Debug/net6.0/05.AverageNumber.deps.json
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/bin/Debug/net6.0/05.AverageNumber.runtimeconfig.json
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/bin/Debug/net6.0/05.AverageNumber.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/bin/Debug/net6.0/05.AverageNumber.pdb
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.AssemblyInfo.cs
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/refint/05.AverageNumber.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.pdb
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/05.AverageNumber.genruntimeconfig.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/05.AverageNumber/obj/Debug/net6.0/ref/05.AverageNumber.dll

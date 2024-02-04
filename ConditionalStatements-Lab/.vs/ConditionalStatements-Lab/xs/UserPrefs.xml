@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{08B915F1-68FD-4D18-8B27-1D5127925D5C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.ExcellentResult PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04.PasswordGuess FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.EvenOrOdd FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.07.AreaOfFigures PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.05.Number100To200 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.06.SpeedInfo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mariadanceva/Projects/ConditionalStatements-Lab/03.EvenOrOdd/Program.cs" relfile="03.EvenOrOdd/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02.GreaterNumber FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.SpeedInfo/Program.cs">
+    <Files>
+      <File FileName="01.ExcellentResult/Program.cs" Line="1" Column="1" />
+      <File FileName="02.GreaterNumber/Program.cs" Line="4" Column="1" />
+      <File FileName="03.EvenOrOdd/Program.cs" Line="1" Column="1" />
+      <File FileName="04.PasswordGuess/Program.cs" Line="9" Column="1" />
+      <File FileName="07.AreaOfFigures/Program.cs" Line="34" Column="1" />
+      <File FileName="05.Number100To200/Program.cs" Line="16" Column="1" />
+      <File FileName="06.SpeedInfo/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConditionalStatements-Lab" expanded="True">
+            <Node name="01.ExcellentResult" expanded="True" />
+            <Node name="02.GreaterNumber" expanded="True" />
+            <Node name="03.EvenOrOdd" expanded="True" />
+            <Node name="04.PasswordGuess" expanded="True" />
+            <Node name="05.Number100To200" expanded="True" />
+            <Node name="06.SpeedInfo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="07.AreaOfFigures" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

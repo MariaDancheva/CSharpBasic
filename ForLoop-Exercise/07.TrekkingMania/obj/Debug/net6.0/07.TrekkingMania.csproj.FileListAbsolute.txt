@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/bin/Debug/net6.0/07.TrekkingMania
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/bin/Debug/net6.0/07.TrekkingMania.deps.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/bin/Debug/net6.0/07.TrekkingMania.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/bin/Debug/net6.0/07.TrekkingMania.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/bin/Debug/net6.0/07.TrekkingMania.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/refint/07.TrekkingMania.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/07.TrekkingMania.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/07.TrekkingMania/obj/Debug/net6.0/ref/07.TrekkingMania.dll

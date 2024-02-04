@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/bin/Debug/net6.0/03.RectangleArea1
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/bin/Debug/net6.0/03.RectangleArea1.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/bin/Debug/net6.0/03.RectangleArea1.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/bin/Debug/net6.0/03.RectangleArea1.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/bin/Debug/net6.0/03.RectangleArea1.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/refint/03.RectangleArea1.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/03.RectangleArea1.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/03.RectangleArea1/obj/Debug/net6.0/ref/03.RectangleArea1.dll

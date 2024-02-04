@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/bin/Debug/net6.0/05.SuppliesForSchool
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/bin/Debug/net6.0/05.SuppliesForSchool.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/bin/Debug/net6.0/05.SuppliesForSchool.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/bin/Debug/net6.0/05.SuppliesForSchool.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/bin/Debug/net6.0/05.SuppliesForSchool.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/refint/05.SuppliesForSchool.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/05.SuppliesForSchool.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/05.SuppliesForSchool/obj/Debug/net6.0/ref/05.SuppliesForSchool.dll

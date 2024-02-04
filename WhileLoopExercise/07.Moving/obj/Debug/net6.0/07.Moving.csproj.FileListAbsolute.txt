@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/bin/Debug/net6.0/07.Moving
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/bin/Debug/net6.0/07.Moving.deps.json
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/bin/Debug/net6.0/07.Moving.runtimeconfig.json
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/bin/Debug/net6.0/07.Moving.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/bin/Debug/net6.0/07.Moving.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.AssemblyInfo.cs
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/refint/07.Moving.dll
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.pdb
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/07.Moving.genruntimeconfig.cache
+/Users/mariadanceva/Projects/WhileLoopExercise/07.Moving/obj/Debug/net6.0/ref/07.Moving.dll

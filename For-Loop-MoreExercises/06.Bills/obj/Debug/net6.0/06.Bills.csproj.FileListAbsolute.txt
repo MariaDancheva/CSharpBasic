@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/bin/Debug/net6.0/06.Bills
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/bin/Debug/net6.0/06.Bills.deps.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/bin/Debug/net6.0/06.Bills.runtimeconfig.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/bin/Debug/net6.0/06.Bills.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/bin/Debug/net6.0/06.Bills.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.AssemblyInfo.cs
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/refint/06.Bills.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/06.Bills.genruntimeconfig.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/06.Bills/obj/Debug/net6.0/ref/06.Bills.dll

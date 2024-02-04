@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/bin/Debug/net6.0/02.Numbers1To10
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/bin/Debug/net6.0/02.Numbers1To10.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/bin/Debug/net6.0/02.Numbers1To10.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/bin/Debug/net6.0/02.Numbers1To10.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/bin/Debug/net6.0/02.Numbers1To10.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/refint/02.Numbers1To10.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/02.Numbers1To10.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding/02.Numbers1To10/obj/Debug/net6.0/ref/02.Numbers1To10.dll

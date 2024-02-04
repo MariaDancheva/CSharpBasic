@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{B92873CE-1EDB-460E-A3C7-46D4C3583DDD}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.Vacation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/02.SummerOutfit/Program.cs" line="12" column="9" endLine="12" endColumn="18" offsetX="-1" offsetY="-1" expression="timeOfDay" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/03.NewHouse/Program.cs" line="11" column="4" endLine="11" endColumn="14" offsetX="-1" offsetY="-1" expression="flowerType" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="30" column="22" endLine="30" endColumn="33" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="10" column="4" endLine="10" endColumn="18" offsetX="-1" offsetY="-1" expression="apartmentPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="11" column="4" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="24" column="4" endLine="24" endColumn="10" offsetX="-1" offsetY="-1" expression="nights" liveUpdate="False" />
+    <Watch file="../../../../ForLoop-Exercise/04.CleverLily/Program.cs" line="18" column="0" endLine="18" endColumn="10" offsetX="-1" offsetY="-1" expression="moneyTotal" liveUpdate="False" />
+    <Watch file="../../../05.Coins/Program.cs" line="6" column="10" endLine="6" endColumn="34" offsetX="-1" offsetY="-1" expression="smallChange" liveUpdate="False" />
+    <Watch file="../../../05.Coins/Program.cs" line="4" column="7" endLine="4" endColumn="12" offsetX="-1" offsetY="-1" expression="coins" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.05.Coins PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.04.Walking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.Moving PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.ExamPreparation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.OldBooks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Cake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.Moving/Program.cs">
+    <Files>
+      <File FileName="01.OldBooks/Program.cs" />
+      <File FileName="02.ExamPreparation/Program.cs" />
+      <File FileName="03.Vacation/Program.cs" />
+      <File FileName="04.Walking/Program.cs" />
+      <File FileName="05.Coins/Program.cs" />
+      <File FileName="06.Cake/Program.cs" />
+      <File FileName="07.Moving/Program.cs" Line="18" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhileLoopExercise" expanded="True">
+            <Node name="01.OldBooks" expanded="True" />
+            <Node name="02.ExamPreparation" expanded="True" />
+            <Node name="03.Vacation" expanded="True" />
+            <Node name="04.Walking" expanded="True" />
+            <Node name="05.Coins" expanded="True" />
+            <Node name="07.Moving" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

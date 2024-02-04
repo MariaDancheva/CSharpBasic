@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/bin/Debug/net6.0/02.HalfSumElement
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/bin/Debug/net6.0/02.HalfSumElement.deps.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/bin/Debug/net6.0/02.HalfSumElement.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/bin/Debug/net6.0/02.HalfSumElement.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/bin/Debug/net6.0/02.HalfSumElement.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/refint/02.HalfSumElement.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/02.HalfSumElement.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/02.HalfSumElement/obj/Debug/net6.0/ref/02.HalfSumElement.dll

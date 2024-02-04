@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/bin/Debug/net6.0/09.FishTank
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/bin/Debug/net6.0/09.FishTank.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/bin/Debug/net6.0/09.FishTank.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/bin/Debug/net6.0/09.FishTank.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/bin/Debug/net6.0/09.FishTank.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/refint/09.FishTank.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/09.FishTank.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/09.FishTank/obj/Debug/net6.0/ref/09.FishTank.dll

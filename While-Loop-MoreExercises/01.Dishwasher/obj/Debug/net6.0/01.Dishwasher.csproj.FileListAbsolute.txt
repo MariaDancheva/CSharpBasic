@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/bin/Debug/net6.0/01.Dishwasher
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/bin/Debug/net6.0/01.Dishwasher.deps.json
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/bin/Debug/net6.0/01.Dishwasher.runtimeconfig.json
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/bin/Debug/net6.0/01.Dishwasher.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/bin/Debug/net6.0/01.Dishwasher.pdb
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.AssemblyInfo.cs
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/refint/01.Dishwasher.dll
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.pdb
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/01.Dishwasher.genruntimeconfig.cache
+/Users/mariadanceva/Projects/While-Loop-MoreExercises/01.Dishwasher/obj/Debug/net6.0/ref/01.Dishwasher.dll

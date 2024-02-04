@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/bin/Debug/net6.0/11.OddEvenPosition
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/bin/Debug/net6.0/11.OddEvenPosition.deps.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/bin/Debug/net6.0/11.OddEvenPosition.runtimeconfig.json
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/bin/Debug/net6.0/11.OddEvenPosition.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/bin/Debug/net6.0/11.OddEvenPosition.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.AssemblyInfo.cs
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/refint/11.OddEvenPosition.dll
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.pdb
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/11.OddEvenPosition.genruntimeconfig.cache
+/Users/mariadanceva/Projects/For-Loop-MoreExercises/11.OddEvenPosition/obj/Debug/net6.0/ref/11.OddEvenPosition.dll

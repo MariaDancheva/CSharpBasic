@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/bin/Debug/net6.0/03.SumNumbers
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/bin/Debug/net6.0/03.SumNumbers.deps.json
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/bin/Debug/net6.0/03.SumNumbers.runtimeconfig.json
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/bin/Debug/net6.0/03.SumNumbers.dll
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/bin/Debug/net6.0/03.SumNumbers.pdb
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.AssemblyInfo.cs
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.dll
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/refint/03.SumNumbers.dll
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.pdb
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/03.SumNumbers.genruntimeconfig.cache
+/Users/mariadanceva/Projects/WhileLoop-Lab/03.SumNumbers/obj/Debug/net6.0/ref/03.SumNumbers.dll

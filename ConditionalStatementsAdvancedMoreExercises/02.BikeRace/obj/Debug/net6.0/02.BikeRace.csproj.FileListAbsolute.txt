@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/bin/Debug/net6.0/02.BikeRace
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/bin/Debug/net6.0/02.BikeRace.deps.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/bin/Debug/net6.0/02.BikeRace.runtimeconfig.json
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/bin/Debug/net6.0/02.BikeRace.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/bin/Debug/net6.0/02.BikeRace.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/refint/02.BikeRace.dll
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.pdb
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/02.BikeRace.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ConditionalStatementsAdvancedMoreExercises/02.BikeRace/obj/Debug/net6.0/ref/02.BikeRace.dll

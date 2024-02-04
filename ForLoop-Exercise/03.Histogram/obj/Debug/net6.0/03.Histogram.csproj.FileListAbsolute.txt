@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/bin/Debug/net6.0/03.Histogram
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/bin/Debug/net6.0/03.Histogram.deps.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/bin/Debug/net6.0/03.Histogram.runtimeconfig.json
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/bin/Debug/net6.0/03.Histogram.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/bin/Debug/net6.0/03.Histogram.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.AssemblyInfo.cs
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/refint/03.Histogram.dll
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.pdb
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/03.Histogram.genruntimeconfig.cache
+/Users/mariadanceva/Projects/ForLoop-Exercise/03.Histogram/obj/Debug/net6.0/ref/03.Histogram.dll

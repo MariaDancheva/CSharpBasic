@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/bin/Debug/net6.0/07.FoodDelivery1 ​
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/bin/Debug/net6.0/07.FoodDelivery1 ​.deps.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/bin/Debug/net6.0/07.FoodDelivery1 ​.runtimeconfig.json
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/bin/Debug/net6.0/07.FoodDelivery1 ​.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/bin/Debug/net6.0/07.FoodDelivery1 ​.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.AssemblyInfo.cs
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/refint/07.FoodDelivery1 ​.dll
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.pdb
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/07.FoodDelivery1 ​.genruntimeconfig.cache
+/Users/mariadanceva/Projects/FirstStepsInCoding-Lab/07.FoodDelivery1 ​/obj/Debug/net6.0/ref/07.FoodDelivery1 ​.dll
