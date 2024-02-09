@@ -24,15 +24,18 @@
     <Files>
       <File FileName="01.Dishwasher/Program.cs" />
       <File FileName="02.ReportSystem/Program.cs" Line="48" Column="24" />
-      <File FileName="03.StreamOfLetters/Program.cs" Line="71" Column="20" />
-      <File FileName="04.NumbersDividedBy3WithoutReminder/Program.cs" Line="4" Column="2" />
-      <File FileName="05.AverageNumber/Program.cs" Line="8" Column="38" />
+      <File FileName="03.StreamOfLetters/Program.cs" />
+      <File FileName="04.NumbersDividedBy3WithoutReminder/Program.cs" />
+      <File FileName="05.AverageNumber/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="While-Loop-MoreExercises" expanded="True" selected="True">
+          <Node name="While-Loop-MoreExercises" expanded="True">
             <Node name="01.Dishwasher" expanded="True" />
+            <Node name="02.ReportSystem" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="03.StreamOfLetters" expanded="True" />
           </Node>
         </State>

@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{36C74C61-795E-4E17-994A-D0B8CD35B757}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/02.SummerOutfit/Program.cs" line="12" column="9" endLine="12" endColumn="18" offsetX="-1" offsetY="-1" expression="timeOfDay" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/03.NewHouse/Program.cs" line="11" column="4" endLine="11" endColumn="14" offsetX="-1" offsetY="-1" expression="flowerType" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="30" column="22" endLine="30" endColumn="33" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="10" column="4" endLine="10" endColumn="18" offsetX="-1" offsetY="-1" expression="apartmentPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="11" column="4" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="24" column="4" endLine="24" endColumn="10" offsetX="-1" offsetY="-1" expression="nights" liveUpdate="False" />
+    <Watch file="../../../../ForLoop-Exercise/04.CleverLily/Program.cs" line="18" column="0" endLine="18" endColumn="10" offsetX="-1" offsetY="-1" expression="moneyTotal" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="6" column="7" endLine="6" endColumn="25" offsetX="-1" offsetY="-1" expression="unsuccessfullJumps" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="4" column="4" endLine="4" endColumn="17" offsetX="-1" offsetY="-1" expression="jumpCount" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="2" column="4" endLine="2" endColumn="34" offsetX="-1" offsetY="-1" expression="practiceHight" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="3" column="4" endLine="3" endColumn="12" offsetX="-1" offsetY="-1" expression="jumpHigh" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="8" column="4" endLine="8" endColumn="16" offsetX="-1" offsetY="-1" expression="practiceJump" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="11" column="8" endLine="11" endColumn="20" offsetX="-1" offsetY="-1" expression="practiceJump" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="13" column="8" endLine="13" endColumn="21" offsetX="-1" offsetY="-1" expression="practiceHight" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="9" column="6" endLine="9" endColumn="15" offsetX="-1" offsetY="-1" expression="jumpCount" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/04.GameNumberWars/Program.cs" line="6" column="7" endLine="6" endColumn="13" offsetX="-1" offsetY="-1" expression="cardP1" liveUpdate="False" />
+    <Watch file="../../../03.Combinations/Program.cs" line="7" column="7" endLine="7" endColumn="8" offsetX="-1" offsetY="-1" expression="x" liveUpdate="False" />
+    <Watch file="../../../03.Combinations/Program.cs" line="11" column="14" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="z" liveUpdate="False" />
+    <Watch file="../../../03.Combinations/Program.cs" line="4" column="4" endLine="4" endColumn="20" offsetX="-1" offsetY="-1" expression="validResults" liveUpdate="False" />
+    <Watch file="../../../03.Combinations/Program.cs" line="14" column="16" endLine="14" endColumn="22" offsetX="-1" offsetY="-1" expression="result" liveUpdate="False" />
+    <Watch file="../../../03.Combinations/Program.cs" line="4" column="13" endLine="4" endColumn="18" offsetX="-1" offsetY="-1" expression="b" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.06.Building PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.SumOfTwoNumbers/Program.cs">
+    <Files>
+      <File FileName="01.Clock/Program.cs" Line="12" Column="2" />
+      <File FileName="02.MultiplicationTable/Program.cs" Line="15" Column="2" />
+      <File FileName="03.Combinations/Program.cs" Line="11" Column="1" />
+      <File FileName="04.SumOfTwoNumbers/Program.cs" Line="21" Column="25" />
+      <File FileName="05.Travelling/Program.cs" Line="13" Column="2" />
+      <File FileName="06.Building/Program.cs" Line="14" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NestedLoops-Lab" expanded="True">
+            <Node name="01.Clock" expanded="True" />
+            <Node name="02.MultiplicationTable" expanded="True" />
+            <Node name="03.Combinations" expanded="True" />
+            <Node name="04.SumOfTwoNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.03.Combinations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Travelling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Clock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.MultiplicationTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.SumOfTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

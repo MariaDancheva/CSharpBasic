@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/bin/Debug/net6.0/04.SumOfTwoNumbers
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/bin/Debug/net6.0/04.SumOfTwoNumbers.deps.json
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/bin/Debug/net6.0/04.SumOfTwoNumbers.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/bin/Debug/net6.0/04.SumOfTwoNumbers.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/bin/Debug/net6.0/04.SumOfTwoNumbers.pdb
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/refint/04.SumOfTwoNumbers.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.pdb
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/04.SumOfTwoNumbers.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/04.SumOfTwoNumbers/obj/Debug/net6.0/ref/04.SumOfTwoNumbers.dll

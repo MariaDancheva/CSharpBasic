@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/bin/Debug/net6.0/06.CinemaTickets
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/bin/Debug/net6.0/06.CinemaTickets.deps.json
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/bin/Debug/net6.0/06.CinemaTickets.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/bin/Debug/net6.0/06.CinemaTickets.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/bin/Debug/net6.0/06.CinemaTickets.pdb
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/refint/06.CinemaTickets.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.pdb
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/06.CinemaTickets.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/06.CinemaTickets/obj/Debug/net6.0/ref/06.CinemaTickets.dll

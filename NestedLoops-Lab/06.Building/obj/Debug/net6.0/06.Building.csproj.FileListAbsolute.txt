@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/bin/Debug/net6.0/06.Building
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/bin/Debug/net6.0/06.Building.deps.json
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/bin/Debug/net6.0/06.Building.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/bin/Debug/net6.0/06.Building.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/bin/Debug/net6.0/06.Building.pdb
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/refint/06.Building.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.pdb
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/06.Building.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/06.Building/obj/Debug/net6.0/ref/06.Building.dll

@@ -12,14 +12,6 @@ if (n != 1)
             firstCouple = firstNumber + secondNumber;
         else
             secondCouple = firstNumber + secondNumber;
-
-        if (secondCouple > firstCouple && n >= 4 && i != n)
-        {
-            firstCouple = secondCouple;
-            secondCouple = 0;
-
-        }
-
     }
     if (firstCouple == secondCouple)
         Console.WriteLine($"Yes, value={firstCouple}");

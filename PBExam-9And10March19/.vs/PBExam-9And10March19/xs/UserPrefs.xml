@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{3CBBFF14-5DC6-4B21-96CE-5301CF6544A9}|Default">
+﻿<Properties StartupConfiguration="{9CA33C2A-B271-450D-BFF0-FBDC8AA1FC3F}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.05.TennisRanklist PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.Gymnastics PreferredExecutionTarget="MonoDevelop.Default" />
@@ -12,21 +12,31 @@
     <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="11" column="4" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
     <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="24" column="4" endLine="24" endColumn="10" offsetX="-1" offsetY="-1" expression="nights" liveUpdate="False" />
     <Watch file="../../../../ForLoop-Exercise/04.CleverLily/Program.cs" line="18" column="0" endLine="18" endColumn="10" offsetX="-1" offsetY="-1" expression="moneyTotal" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="6" column="7" endLine="6" endColumn="25" offsetX="-1" offsetY="-1" expression="unsuccessfullJumps" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="4" column="4" endLine="4" endColumn="17" offsetX="-1" offsetY="-1" expression="jumpCount" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="2" column="4" endLine="2" endColumn="34" offsetX="-1" offsetY="-1" expression="practiceHight" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="3" column="4" endLine="3" endColumn="12" offsetX="-1" offsetY="-1" expression="jumpHigh" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="8" column="4" endLine="8" endColumn="16" offsetX="-1" offsetY="-1" expression="practiceJump" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="11" column="8" endLine="11" endColumn="20" offsetX="-1" offsetY="-1" expression="practiceJump" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="13" column="8" endLine="13" endColumn="21" offsetX="-1" offsetY="-1" expression="practiceHight" liveUpdate="False" />
+    <Watch file="../../../06.HighJump/Program.cs" line="9" column="6" endLine="9" endColumn="15" offsetX="-1" offsetY="-1" expression="jumpCount" liveUpdate="False" />
+    <Watch file="../../../04.GameNumberWars/Program.cs" line="6" column="7" endLine="6" endColumn="13" offsetX="-1" offsetY="-1" expression="cardP1" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.ItemProperties.02.Skeleton PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="06.HighJump/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.BasketballTournament/Program.cs">
     <Files>
-      <File FileName="01.TennisEquipment/Program.cs" Line="10" Column="16" />
-      <File FileName="01.BasketballEquipment/Program.cs" Line="8" Column="32" />
-      <File FileName="02.FootballResults/Program.cs" Line="37" Column="1" />
-      <File FileName="02.Skeleton/Program.cs" Line="17" Column="2" />
-      <File FileName="03.Gymnastics/Program.cs" Line="53" Column="33" />
-      <File FileName="03.WorldSnookerChampionship/Program.cs" Line="74" Column="1" />
-      <File FileName="04.GameNumberWars/Program.cs" Line="42" Column="7" />
-      <File FileName="04.Darts/Program.cs" Line="29" Column="24" />
-      <File FileName="05.TennisRanklist/Program.cs" Line="25" Column="26" />
-      <File FileName="05.FitnessCenter/Program.cs" Line="42" Column="1" />
-      <File FileName="06.HighJump/Program.cs" Line="29" Column="1" />
+      <File FileName="01.TennisEquipment/Program.cs" />
+      <File FileName="01.BasketballEquipment/Program.cs" />
+      <File FileName="02.FootballResults/Program.cs" />
+      <File FileName="02.Skeleton/Program.cs" />
+      <File FileName="03.Gymnastics/Program.cs" />
+      <File FileName="03.WorldSnookerChampionship/Program.cs" />
+      <File FileName="04.GameNumberWars/Program.cs" />
+      <File FileName="04.Darts/Program.cs" />
+      <File FileName="05.TennisRanklist/Program.cs" />
+      <File FileName="05.FitnessCenter/Program.cs" />
+      <File FileName="06.HighJump/Program.cs" />
+      <File FileName="06.BasketballTournament/Program.cs" Line="22" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -39,11 +49,11 @@
             <Node name="03.Gymnastics" expanded="True" />
             <Node name="03.WorldSnookerChampionship" expanded="True" />
             <Node name="04.Darts" expanded="True" />
-            <Node name="04.GameNumberWars" expanded="True" />
             <Node name="05.TennisRanklist" expanded="True" />
-            <Node name="06.HighJump">
+            <Node name="06.BasketballTournament" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="06.HighJump" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -52,8 +62,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.04.GameNumberWars PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.FootballResults PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.06.BasketballTournament FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.06.BasketballTournament FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.06.HighJump PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.Darts PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.WorldSnookerChampionship PreferredExecutionTarget="MonoDevelop.Default" />

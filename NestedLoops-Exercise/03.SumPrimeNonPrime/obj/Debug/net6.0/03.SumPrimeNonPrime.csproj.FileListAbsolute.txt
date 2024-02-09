@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/net6.0/03.SumPrimeNonPrime
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/net6.0/03.SumPrimeNonPrime.deps.json
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/net6.0/03.SumPrimeNonPrime.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/net6.0/03.SumPrimeNonPrime.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/bin/Debug/net6.0/03.SumPrimeNonPrime.pdb
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/refint/03.SumPrimeNonPrime.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.pdb
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/03.SumPrimeNonPrime.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/03.SumPrimeNonPrime/obj/Debug/net6.0/ref/03.SumPrimeNonPrime.dll

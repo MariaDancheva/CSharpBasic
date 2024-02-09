@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.deps.json
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/bin/Debug/net6.0/02.MultiplicationTable.pdb
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/refint/02.MultiplicationTable.dll
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.pdb
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/02.MultiplicationTable.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoops-Lab/02.MultiplicationTable/obj/Debug/net6.0/ref/02.MultiplicationTable.dll

@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{002171E7-EADA-4BB4-AE86-24F6DE276882}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.SumPrimeNonPrime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.TrainTheTrainers/Program.cs">
+    <Files>
+      <File FileName="01.NumberPyramid/Program.cs" Line="15" Column="1" />
+      <File FileName="02.EqualSumsEvenOddPosition/Program.cs" Line="21" Column="2" />
+      <File FileName="03.SumPrimeNonPrime/Program.cs" Line="25" Column="21" />
+      <File FileName="04.TrainTheTrainers/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NestedLoops-Exercise" expanded="True">
+            <Node name="04.TrainTheTrainers">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.NumberPyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.TrainTheTrainers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.EqualSumsEvenOddPosition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.06.CinemaTickets FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/02.SummerOutfit/Program.cs" line="12" column="9" endLine="12" endColumn="18" offsetX="-1" offsetY="-1" expression="timeOfDay" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/03.NewHouse/Program.cs" line="11" column="4" endLine="11" endColumn="14" offsetX="-1" offsetY="-1" expression="flowerType" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="30" column="22" endLine="30" endColumn="33" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="10" column="4" endLine="10" endColumn="18" offsetX="-1" offsetY="-1" expression="apartmentPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="11" column="4" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="studioPrice" liveUpdate="False" />
+    <Watch file="../../../../ConditionalStatementsAdvancedExercise/07.HotelRoom/Program.cs" line="24" column="4" endLine="24" endColumn="10" offsetX="-1" offsetY="-1" expression="nights" liveUpdate="False" />
+    <Watch file="../../../../ForLoop-Exercise/04.CleverLily/Program.cs" line="18" column="0" endLine="18" endColumn="10" offsetX="-1" offsetY="-1" expression="moneyTotal" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="6" column="7" endLine="6" endColumn="25" offsetX="-1" offsetY="-1" expression="unsuccessfullJumps" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="4" column="4" endLine="4" endColumn="17" offsetX="-1" offsetY="-1" expression="jumpCount" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="2" column="4" endLine="2" endColumn="34" offsetX="-1" offsetY="-1" expression="practiceHight" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="3" column="4" endLine="3" endColumn="12" offsetX="-1" offsetY="-1" expression="jumpHigh" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="8" column="4" endLine="8" endColumn="16" offsetX="-1" offsetY="-1" expression="practiceJump" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="11" column="8" endLine="11" endColumn="20" offsetX="-1" offsetY="-1" expression="practiceJump" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="13" column="8" endLine="13" endColumn="21" offsetX="-1" offsetY="-1" expression="practiceHight" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/06.HighJump/Program.cs" line="9" column="6" endLine="9" endColumn="15" offsetX="-1" offsetY="-1" expression="jumpCount" liveUpdate="False" />
+    <Watch file="../../../../PBExam-9And10March19/04.GameNumberWars/Program.cs" line="6" column="7" endLine="6" endColumn="13" offsetX="-1" offsetY="-1" expression="cardP1" liveUpdate="False" />
+    <Watch file="../../../../NestedLoops-Lab/03.Combinations/Program.cs" line="7" column="7" endLine="7" endColumn="8" offsetX="-1" offsetY="-1" expression="x" liveUpdate="False" />
+    <Watch file="../../../../NestedLoops-Lab/03.Combinations/Program.cs" line="11" column="14" endLine="11" endColumn="15" offsetX="-1" offsetY="-1" expression="z" liveUpdate="False" />
+    <Watch file="../../../../NestedLoops-Lab/03.Combinations/Program.cs" line="4" column="4" endLine="4" endColumn="20" offsetX="-1" offsetY="-1" expression="validResults" liveUpdate="False" />
+    <Watch file="../../../../NestedLoops-Lab/03.Combinations/Program.cs" line="14" column="16" endLine="14" endColumn="22" offsetX="-1" offsetY="-1" expression="result" liveUpdate="False" />
+    <Watch file="../../../../NestedLoops-Lab/03.Combinations/Program.cs" line="4" column="13" endLine="4" endColumn="18" offsetX="-1" offsetY="-1" expression="b" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.05.SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>

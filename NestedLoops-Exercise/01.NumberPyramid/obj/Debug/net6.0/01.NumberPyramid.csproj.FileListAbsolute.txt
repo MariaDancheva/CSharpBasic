@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/bin/Debug/net6.0/01.NumberPyramid
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/bin/Debug/net6.0/01.NumberPyramid.deps.json
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/bin/Debug/net6.0/01.NumberPyramid.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/bin/Debug/net6.0/01.NumberPyramid.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/bin/Debug/net6.0/01.NumberPyramid.pdb
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/refint/01.NumberPyramid.dll
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.pdb
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/01.NumberPyramid.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoops-Exercise/01.NumberPyramid/obj/Debug/net6.0/ref/01.NumberPyramid.dll
