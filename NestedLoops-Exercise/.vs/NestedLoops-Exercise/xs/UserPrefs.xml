@@ -1,20 +1,18 @@
-﻿<Properties StartupConfiguration="{002171E7-EADA-4BB4-AE86-24F6DE276882}|Default">
+﻿<Properties StartupConfiguration="{AA60609E-72E9-4F04-B132-78BF4184A4F3}|Default">
   <MonoDevelop.Ide.ItemProperties.03.SumPrimeNonPrime PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.TrainTheTrainers/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.EqualSumsEvenOddPosition/Program.cs">
     <Files>
-      <File FileName="01.NumberPyramid/Program.cs" Line="15" Column="1" />
-      <File FileName="02.EqualSumsEvenOddPosition/Program.cs" Line="21" Column="2" />
-      <File FileName="03.SumPrimeNonPrime/Program.cs" Line="25" Column="21" />
-      <File FileName="04.TrainTheTrainers/Program.cs" Line="1" Column="1" />
+      <File FileName="01.NumberPyramid/Program.cs" />
+      <File FileName="02.EqualSumsEvenOddPosition/Program.cs" Line="23" Column="1" />
+      <File FileName="03.SumPrimeNonPrime/Program.cs" />
+      <File FileName="04.TrainTheTrainers/Program.cs" Line="19" Column="33" />
+      <File FileName="05.SpecialNumbers/Program.cs" Line="23" Column="10" />
+      <File FileName="06.CinemaTickets/Program.cs" Line="31" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NestedLoops-Exercise" expanded="True">
-            <Node name="04.TrainTheTrainers">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="NestedLoops-Exercise" expanded="True" />
         </State>
       </Pad>
     </Pads>
@@ -23,7 +21,7 @@
   <MonoDevelop.Ide.ItemProperties.04.TrainTheTrainers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.EqualSumsEvenOddPosition PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.06.CinemaTickets FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.06.CinemaTickets PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../ConditionalStatementsAdvancedExercise/02.SummerOutfit/Program.cs" line="12" column="9" endLine="12" endColumn="18" offsetX="-1" offsetY="-1" expression="timeOfDay" liveUpdate="False" />
     <Watch file="../../../../ConditionalStatementsAdvancedExercise/03.NewHouse/Program.cs" line="11" column="4" endLine="11" endColumn="14" offsetX="-1" offsetY="-1" expression="flowerType" liveUpdate="False" />
@@ -49,5 +47,7 @@
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.05.SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
