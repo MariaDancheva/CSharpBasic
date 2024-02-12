@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/bin/Debug/net6.0/10.Profit
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/bin/Debug/net6.0/10.Profit.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/bin/Debug/net6.0/10.Profit.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/bin/Debug/net6.0/10.Profit.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/bin/Debug/net6.0/10.Profit.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/refint/10.Profit.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/10.Profit.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/10.Profit/obj/Debug/net6.0/ref/10.Profit.dll

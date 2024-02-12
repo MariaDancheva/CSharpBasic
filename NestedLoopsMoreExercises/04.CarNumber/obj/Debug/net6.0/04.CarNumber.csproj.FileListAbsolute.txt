@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/bin/Debug/net6.0/04.CarNumber
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/bin/Debug/net6.0/04.CarNumber.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/bin/Debug/net6.0/04.CarNumber.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/bin/Debug/net6.0/04.CarNumber.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/bin/Debug/net6.0/04.CarNumber.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/refint/04.CarNumber.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/04.CarNumber.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/04.CarNumber/obj/Debug/net6.0/ref/04.CarNumber.dll

@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/bin/Debug/net6.0/13.PrimePairs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/bin/Debug/net6.0/13.PrimePairs.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/bin/Debug/net6.0/13.PrimePairs.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/bin/Debug/net6.0/13.PrimePairs.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/bin/Debug/net6.0/13.PrimePairs.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/refint/13.PrimePairs.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/13.PrimePairs.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/13.PrimePairs/obj/Debug/net6.0/ref/13.PrimePairs.dll

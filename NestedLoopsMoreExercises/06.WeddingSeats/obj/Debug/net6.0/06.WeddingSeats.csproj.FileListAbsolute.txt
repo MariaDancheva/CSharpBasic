@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/bin/Debug/net6.0/06.WeddingSeats
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/bin/Debug/net6.0/06.WeddingSeats.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/bin/Debug/net6.0/06.WeddingSeats.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/bin/Debug/net6.0/06.WeddingSeats.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/bin/Debug/net6.0/06.WeddingSeats.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/refint/06.WeddingSeats.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/06.WeddingSeats.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/06.WeddingSeats/obj/Debug/net6.0/ref/06.WeddingSeats.dll

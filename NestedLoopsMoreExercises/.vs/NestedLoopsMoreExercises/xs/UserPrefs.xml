@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5DA3FCA1-EF04-42F5-A5D2-A9C2AF708C8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.WeddingSeats PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.LettersCombinations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.SafePasswordsGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.PrimePairs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.SumOfTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.TheSongOfTheWheels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.UniquePINCodes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.ChallengeTheWedding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Profit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.SecretDoorsLock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.CarNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.PasswordGenerator FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.LuckyNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.HappyCatParking PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

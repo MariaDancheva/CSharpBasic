@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/bin/Debug/net6.0/05.ChallengeTheWedding
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/bin/Debug/net6.0/05.ChallengeTheWedding.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/bin/Debug/net6.0/05.ChallengeTheWedding.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/bin/Debug/net6.0/05.ChallengeTheWedding.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/bin/Debug/net6.0/05.ChallengeTheWedding.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/refint/05.ChallengeTheWedding.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/05.ChallengeTheWedding.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/05.ChallengeTheWedding/obj/Debug/net6.0/ref/05.ChallengeTheWedding.dll

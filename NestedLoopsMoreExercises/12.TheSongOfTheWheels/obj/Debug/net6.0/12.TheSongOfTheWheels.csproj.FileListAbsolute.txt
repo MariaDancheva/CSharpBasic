@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/bin/Debug/net6.0/12.TheSongOfTheWheels
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/bin/Debug/net6.0/12.TheSongOfTheWheels.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/bin/Debug/net6.0/12.TheSongOfTheWheels.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/bin/Debug/net6.0/12.TheSongOfTheWheels.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/bin/Debug/net6.0/12.TheSongOfTheWheels.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/refint/12.TheSongOfTheWheels.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/12.TheSongOfTheWheels.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/12.TheSongOfTheWheels/obj/Debug/net6.0/ref/12.TheSongOfTheWheels.dll

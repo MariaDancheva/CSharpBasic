@@ -1,0 +1,15 @@
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/bin/Debug/net6.0/03.LuckyNumbers
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/bin/Debug/net6.0/03.LuckyNumbers.deps.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/bin/Debug/net6.0/03.LuckyNumbers.runtimeconfig.json
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/bin/Debug/net6.0/03.LuckyNumbers.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/bin/Debug/net6.0/03.LuckyNumbers.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.csproj.AssemblyReference.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.AssemblyInfoInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.AssemblyInfo.cs
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.csproj.CoreCompileInputs.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/refint/03.LuckyNumbers.dll
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.pdb
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/03.LuckyNumbers.genruntimeconfig.cache
+/Users/mariadanceva/Projects/NestedLoopsMoreExercises/03.LuckyNumbers/obj/Debug/net6.0/ref/03.LuckyNumbers.dll
